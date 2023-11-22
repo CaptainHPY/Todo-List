@@ -7,7 +7,9 @@ I've been recently studying on React borrowing Modern.js Framework,which is a pr
 ## Setup
 
 Install the dependencies:
+
 Install Node.js on https://nodejs.org/en/
+
 Install nrm in cmd(for Windows users):
 
 ```bash
