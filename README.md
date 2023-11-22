@@ -47,4 +47,4 @@ pnpm dev
 5.Open local link.
 
 ---
-For more information, see the https://react.docschina.org/ or [Modern.js documentation](https://modernjs.dev/en).
+For more information, see https://react.docschina.org/ or [Modern.js documentation](https://modernjs.dev/en).
