@@ -4,7 +4,6 @@
 
 I've been recently studying on React borrowing Modern.js Framework,which is a progressive web framework based on React.This is my first project of React.
 
----
 ## Setup
 
 Install the dependencies:
@@ -25,7 +24,6 @@ Install pnpm in cmd(for Windows users):
 npm install -g pnpm
 ```
 
----
 ## Get Started
 
 Enter "hello-modern":
