@@ -6,11 +6,11 @@ I've been recently studying on React borrowing Modern.js Framework,which is a pr
 
 ## Setup
 
-Install the dependencies:
+1.Install the dependencies:
 
-Install Node.js on https://nodejs.org/en/.
+2.Install Node.js on https://nodejs.org/en/.
 
-Install nrm in cmd(for Windows users):
+3.Install nrm in cmd(for Windows users):
 
 ```bash
 npm install -g nrm
@@ -20,7 +20,7 @@ npm install -g nrm
 nrm use taobao
 ```
 
-Install pnpm in cmd(for Windows users):
+4.Install pnpm in cmd(for Windows users):
 
 ```bash
 npm install -g pnpm
@@ -28,19 +28,19 @@ npm install -g pnpm
 
 ## Get Started
 
-Download the files in an empty folder(named in English).
+1.Download the files in an empty folder(named in English).
 
-Download VScode on https://code.visualstudio.com/.
+2.Download VScode on https://code.visualstudio.com/.
 
-Create a powershell in VScode.
+3.Create a powershell in VScode.
 
-Enter the folder:
+4.Enter the folder:
 
 ```bash
 cd the name of folder
 ```
 
-Start the dev server:
+5.Start the dev server:
 
 ```bash
 pnpm dev
