@@ -1,4 +1,4 @@
-# Todo List__a Modern.js App created by CaptainHPY
+# Todo List
 
 ## Introduction
 
