@@ -4,11 +4,11 @@
 
 I've been recently studying on React borrowing Modern.js Framework,which is a progressive web framework based on React.This is my first project of React.
 
-## Setup
+## Setup——Install the dependencies:
 
-1.Install the dependencies:
+1.Install Node.js on https://nodejs.org/en/.
 
-2.Install Node.js on https://nodejs.org/en/.
+2.Download VScode on https://code.visualstudio.com/.
 
 3.Install nrm in cmd(for Windows users):
 
@@ -30,17 +30,15 @@ npm install -g pnpm
 
 1.Download the files in an empty folder(named in English).
 
-2.Download VScode on https://code.visualstudio.com/.
+2.Create a powershell in VScode.
 
-3.Create a powershell in VScode.
-
-4.Enter the folder:
+3.Enter the folder:
 
 ```bash
 cd the name of folder
 ```
 
-5.Start the dev server:
+4.Start the dev server:
 
 ```bash
 pnpm dev
