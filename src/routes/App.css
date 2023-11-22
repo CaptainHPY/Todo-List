@@ -1,0 +1,154 @@
+.addIcon{
+  width:20px;
+  height:20px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5px;
+  margin-top: 20px;
+  padding: 3px;
+}
+  
+.editIcon{
+  width:20px;
+  height:20px;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  visibility: hidden;
+}
+
+.deleteIcon{
+  width:20px;
+  height:20px;
+  justify-content: center;
+  align-items: center;
+  visibility: hidden;
+}
+
+.saveIcon{
+  width:20px;
+  height:20px;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  visibility: hidden;
+}
+
+.bottom{
+  display: flex;
+  flex-direction: row;
+}
+
+.clearAllDone{
+  margin-left: 180px;
+}
+
+.comb{
+  justify-content: center;
+  align-items: center;
+  padding-left: 650px;
+  padding-top: 100px;
+}
+.addtodoContainer{
+  display: flex;
+  flex-direction: row;
+}
+
+.input1{
+  font-size: 30px;
+  width:445px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.input2{
+  font-size: 20px;
+  width:300px;
+  border-radius: 20px;
+  padding: 10px;
+  user-select:none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none; 
+  -moz-user-select: none;
+  -o-user-select: none;
+  -ms-user-select: none;
+}
+
+.span1{
+  font-size: 50px;
+  padding-left: 115px;
+  padding-bottom: 20px;
+  word-break:normal; 
+  width:auto; 
+  display:block; 
+  white-space:pre-wrap;
+  word-wrap : break-word ;
+  overflow: hidden ;
+}
+
+.span3{
+  font-size: 20px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.list{
+  align-items: center;
+}
+
+.listDiv{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.listDiv:hover .deleteIcon{
+  visibility: visible;
+}
+
+.listDiv:hover .saveIcon{
+  visibility: visible;
+}
+
+.listDiv:hover .editIcon{
+  visibility: visible;
+}
+
+.span4{
+  font-size: 10px;
+  margin-left: 30px;
+  margin-right: auto;
+}
+
+.span2{
+  line-height: 200%;
+  margin-left: 10px;
+}
+
+.checkBox:checked+.list{
+  text-decoration: line-through;
+  color: #bfbfbf;
+}
+
+.info {
+  position: absolute;
+	margin-bottom: 10px;
+  margin-left: 120px;
+	color: #bfbfbf;
+	font-size: 10px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+	text-align: center;
+}
+
+.info p {
+	line-height: 1;
+}
+
+.info a {
+	color: inherit;
+	text-decoration: none;
+	font-weight: 400;
+}
+
+.info a:hover {
+	text-decoration: underline;
+}
