@@ -4,7 +4,7 @@
 
 I've been recently studying on React borrowing Modern.js Framework,which is a progressive web framework based on React.This is my first project of React.
 
-## Setup——Install the dependencies:
+## Setup——Install the Dependencies:
 
 1.Install Node.js on https://nodejs.org/en/.
 
