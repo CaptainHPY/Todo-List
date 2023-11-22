@@ -8,7 +8,7 @@ I've been recently studying on React borrowing Modern.js Framework,which is a pr
 
 Install the dependencies:
 
-Install Node.js on https://nodejs.org/en/
+Install Node.js on https://nodejs.org/en/.
 
 Install nrm in cmd(for Windows users):
 
@@ -28,10 +28,16 @@ npm install -g pnpm
 
 ## Get Started
 
-Enter "hello-modern":
+Download the files in an empty folder(named in English).
+
+Download VScode on https://code.visualstudio.com/.
+
+Create a powershell in VScode.
+
+Enter the folder:
 
 ```bash
-cd hello-modern
+cd the name of folder
 ```
 
 Start the dev server:
