@@ -26,12 +26,6 @@ nrm use taobao
 npm install -g pnpm
 ```
 
-5.Install antd(for Windows users):
-
-```bash
-pnpm install antd --g
-```
-
 ## Get Started
 
 1.Download the files in an empty folder(named in English).
@@ -44,13 +38,19 @@ pnpm install antd --g
 cd the name of folder
 ```
 
-4.Start the dev server:
+4.Install:
+
+```bash
+pnpm install
+```
+
+5.Start the dev server:
 
 ```bash
 pnpm dev
 ```
 
-5.Open local link.
+6.Open local link.
 
 ---
 For more information, see https://react.docschina.org/ or [Modern.js documentation](https://modernjs.dev/en).
