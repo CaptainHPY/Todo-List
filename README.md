@@ -26,6 +26,12 @@ nrm use taobao
 npm install -g pnpm
 ```
 
+5.Install antd(for Windows users):
+
+```bash
+pnpm install -g
+```
+
 ## Get Started
 
 1.Download the files in an empty folder(named in English).
