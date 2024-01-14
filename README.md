@@ -29,7 +29,7 @@ npm install -g pnpm
 5.Install antd(for Windows users):
 
 ```bash
-pnpm install -g
+pnpm install antd --g
 ```
 
 ## Get Started
